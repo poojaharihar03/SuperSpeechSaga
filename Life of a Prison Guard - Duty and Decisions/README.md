@@ -29,7 +29,7 @@ Stonewall is the name of the prison.
 
 *Morning Briefing:*
 
-**Bob:** "Welcome to Stonewall, Alex. This is more than simply a job; it is your responsibility. You'll be dealing with hardened criminals as well as the occasional inadvertent intruder. Keep your eyes open and your mind alert Looking forward to work with you Alex. "Come with me,I'll show you around."
+**Bob:** "Welcome to Stonewall, Alex. This is more than simply a job; it is your responsibility. You'll be dealing with hardened criminals as well as the occasional inadvertent intruder. Keep your eyes open and your mind alert Looking forward to working with you, Alex. "Come with me, I'll show you around."
 
 *Tour of the Prison:*
 
@@ -56,7 +56,7 @@ In the yard, Alex meets Charlie, who is sitting alone, reading a book.
 
 **Bob:** "And this is Charlie. Claims he’s innocent. Whether he is or not, he’s one of the most cooperative inmates."
 
-**Charlie:** "Nice to meet you, sir. I hope you can stay here for longer unlike the previous ones."
+**Charlie:** "Nice to meet you, sir. I hope you can stay here for longer, unlike the previous ones."
 
 **Depending on Alex's response, he can earn points:**
 - If he is encouraging, he earns +10 points.
@@ -65,7 +65,7 @@ In the yard, Alex meets Charlie, who is sitting alone, reading a book.
 
 *First Patrol:*
 
-Alex is assigned his first mission, a solo patrol. He wanders through the cell blocks, keeping watch on the detainees. He detects some strange behaviour near Dan's cell, but decides not to meddle right away. He completes his patrol without incident and reports back to Bob.
+Alex is assigned his first mission, a solo patrol. He wanders through the cell blocks, keeping watch on the detainees. He detects some strange behavior near Dan's cell but decides not to meddle right away. He completes his patrol without incident and reports back to Bob.
 
 **Bob:** "Good job on your first patrol, Alex. Keep up the good work, and remember, always trust your instincts." (+10 points)
 
@@ -80,11 +80,11 @@ Alex is assigned his first mission, a solo patrol. He wanders through the cell b
 
 *Morning Briefing:*
 
-**Bob:** "Alex, today you’re going to learn how to conduct a cell search. We’ve had reports of contraband in Cell Block A. You need to be thorough and efficient remember to watch out for any unnecessary acts."
+**Bob:** "Alex, today you’re going to learn how to conduct a cell search. We’ve had reports of contraband in Cell Block A. You need to be thorough and efficient and remember to watch out for any unnecessary acts."
 
 *Cell Search Begins:*
 
-Alex starts his cell search in Cell Block A. He carefully checks each cell, looking for hidden items. When he reaches Dan’s cell, he finds a small stash of contraband—cigarettes, a shov, and a mobile phone.
+Alex starts his cell search in Cell Block A. He carefully checks each cell, looking for hidden items. When he reaches Dan’s cell, he finds a small stash of contraband—cigarettes, a shovel, and a mobile phone.
 
 **Depending on how Alex handles the contraband, he can earn points:**
 - If he confiscates the contraband and reports it to Bob, he earns +15 points.
@@ -139,9 +139,9 @@ Depending on how Alex handles the fight, he can earn points:
 
 ### Chapter 1 Summary
 
-In the first chapter, Alex  learns the basics of his job as a prison guard at Stonewall . He meets key inmates, uncovers contraband, and handles his first major altercation. Through these experiences, Alex begins to understand the challenges of maintaining order in a prison. He must navigatethe fine line between authority and empathy, knowing that his decisions will have significant impacts on the lives of those around him. Will he last long in this challenging environment, or will the pressures of the job overwhelm him?
+In the first chapter, Alex  learns the basics of his job as a prison guard at Stonewall. He meets key inmates, uncovers contraband, and handles his first major altercation. Through these experiences, Alex begins to understand the challenges of maintaining order in a prison. He must navigate the fine line between authority and empathy, knowing that his decisions will have significant impacts on the lives of those around him. Will he last long in this challenging environment, or will the pressures of the job overwhelm him?
 
-Here Player idea will influence how Alex is perceived by both the inmates and his fellow guards, setting the stage for future interactions and conflicts. Each decision and its outcome are scored to reflect Alex’s growing experience and reputation within the prison.
+Here Player's idea will influence how Alex is perceived by both the inmates and his fellow guards, setting the stage for future interactions and conflicts. Each decision and its outcome are scored to reflect Alex’s growing experience and reputation within the prison.
 
 
-We can also change the name of the prisoner from alex to what plater wants. 
+We can also change the name of the prisoner from Alex to what player wants. 
